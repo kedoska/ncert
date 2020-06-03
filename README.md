@@ -7,7 +7,7 @@ ncert
 
 `node n.js www.google.com www.linux.org`
 
-```json
+```javascript
 {
   host: 'www.google.com',
   from: 'May  5 08:31:24 2020 GMT',
